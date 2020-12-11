@@ -1,3 +1,6 @@
+
+//1.	Find the duplicate in an array of N integers. 
+
 // APPROACH - 1
 int findDuplicate(vector<int>& nums) {
         sort(nums.begin(), nums.end());
